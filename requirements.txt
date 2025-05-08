@@ -1,0 +1,7 @@
+pyttsx3
+tk
+langdetect
+gTTS
+playsound
+pyperclip
+PyPDF2
