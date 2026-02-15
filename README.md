@@ -9,11 +9,6 @@ The application provides an easy-to-use and modern interface for real-time speec
 
 ---
 
-## 🖥️ Output Screenshot
-
-Below is the output of the application:
-
----
 
 ## ✨ Features
 
